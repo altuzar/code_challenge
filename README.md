@@ -15,17 +15,17 @@ Screenshots
 
 Here is a screenshot of the lovely home.
 
-![Home](https://cloud.githubusercontent.com/assets/122941/15452144/cddabf96-1fa9-11e6-878a-f11757b659bf.png)
+![Home Screenshot](https://cloud.githubusercontent.com/assets/122941/15452144/cddabf96-1fa9-11e6-878a-f11757b659bf.png)
 
 And some screenshots of the Toy Robot Testers with the input of the toy robot inputs, or Exercise A, B and C.
 
-![Exercise A](https://cloud.githubusercontent.com/assets/122941/15452145/cde5e11e-1fa9-11e6-86f2-f2d745e642d3.png)
-![Exercise B](https://cloud.githubusercontent.com/assets/122941/15452146/cded4e22-1fa9-11e6-8d19-75da310c2203.png)
-![Exercise C](https://cloud.githubusercontent.com/assets/122941/15452147/cdf09906-1fa9-11e6-89f0-c42b629ba7d1.png)
+![Exercise A Screenshot](https://cloud.githubusercontent.com/assets/122941/15452145/cde5e11e-1fa9-11e6-86f2-f2d745e642d3.png)
+![Exercise B Screenshot](https://cloud.githubusercontent.com/assets/122941/15452146/cded4e22-1fa9-11e6-8d19-75da310c2203.png)
+![Exercise C Screenshot](https://cloud.githubusercontent.com/assets/122941/15452147/cdf09906-1fa9-11e6-89f0-c42b629ba7d1.png)
 
 And a screenshot of the Capybara Rspec of the app.
 
-(image here)
+![Tests Screenshot](https://cloud.githubusercontent.com/assets/122941/15452272/1db9217a-1fae-11e6-9e07-c42f7948756c.png)
 
 Installation
 -------------
