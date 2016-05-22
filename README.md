@@ -8,7 +8,7 @@ Toy Robot Simulator
 
 This application was for the Toy Robot Simulator code challenge.
 
-Can also be seen at Heroku as a live demo.
+Can also be seen at Heroku as a live demo. https://code-challenge-rea.herokuapp.com/
 
 Screenshots
 -----------
