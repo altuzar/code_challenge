@@ -25,7 +25,7 @@ And some screenshots of the Toy Robot Testers with the input of the toy robot in
 
 And a screenshot of the Capybara Rspec of the app.
 
-![Tests Screenshot](https://cloud.githubusercontent.com/assets/122941/15452272/1db9217a-1fae-11e6-9e07-c42f7948756c.png)
+![Tests Screenshot](https://cloud.githubusercontent.com/assets/122941/15452295/662927a6-1faf-11e6-8dab-b78faa1b223a.png)
 
 Installation
 -------------

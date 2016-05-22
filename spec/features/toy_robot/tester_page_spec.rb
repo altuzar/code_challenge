@@ -23,4 +23,14 @@ feature 'Toy Robot page' do
     expect(page).to have_content '3,3,NORTH'
   end
 
+  scenario 'visit an exercise with error' do
+    visit '/toy_robot_tester?input=PLACE 1,2,EAST\nMOVE\nMOVE\nLEFT\nMOVE\nMOVE\nREPORT'
+    expect(page).not_to have_content '3,3,NORTH'
+  end
+
+  scenario 'visit the tester with no input' do
+    visit '/toy_robot_tester'
+    expect(page).to have_content 'Undefined'
+  end
+
 end
