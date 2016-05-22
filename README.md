@@ -8,16 +8,20 @@ Toy Robot Simulator
 
 This application was for the Toy Robot Simulator code challenge.
 
+Can also be seen at Heroku as a live demo.
+
 Screenshots
 -----------
 
-Here is a screenshot of the index.
+Here is a screenshot of the lovely home.
 
-(image here)
+![Home](https://cloud.githubusercontent.com/assets/122941/15452144/cddabf96-1fa9-11e6-878a-f11757b659bf.png)
 
-And a screenshot of the Toy Robot Tester with the input of the first toy robot.
+And some screenshots of the Toy Robot Testers with the input of the toy robot inputs, or Exercise A, B and C.
 
-(image here)
+![Exercise A](https://cloud.githubusercontent.com/assets/122941/15452145/cde5e11e-1fa9-11e6-86f2-f2d745e642d3.png)
+![Exercise B](https://cloud.githubusercontent.com/assets/122941/15452146/cded4e22-1fa9-11e6-8d19-75da310c2203.png)
+![Exercise C](https://cloud.githubusercontent.com/assets/122941/15452147/cdf09906-1fa9-11e6-89f0-c42b629ba7d1.png)
 
 And a screenshot of the Capybara Rspec of the app.
 
